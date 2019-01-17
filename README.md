@@ -1,6 +1,6 @@
 # ![Firefly logo](https://raw.github.com/Yelp/firefly/master/docs/firefly-small.png) Firefly
 
-Firefly is a web application aimed at powerful, flexible time series graphing for web developers.
+jira Firefly is a web application aimed at powerful, flexible time series graphing for web developers.
 
 Firefly provides an interface for reading time series data from any number of server-side data stores and produces corresponding real-time graphs in a web browser. Multiple metrics can combine into a single graph, and graphs combine together in grids to form a Dashboard - which you can use to get a high-level view of your services.
 
