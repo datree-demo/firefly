@@ -110,7 +110,3 @@ Firefly supports annotating graphs with various events that you might be interes
 * `type` - Specifies the type of annotation. Should be a single word with alphanumeric characters only. This is the text displayed on the graphs next to the annotation marker.
 * `description` - A description of the event this annotation is for.
 * `time` - The time the annotation occurred, as a floating point number of seconds since the epoch.
-
-### Database Files
-
-You can control where the data server and UI server put their SQLite database files with the `db_file` configuration variable, which can be set for both `data_server` and `ui_server`.
