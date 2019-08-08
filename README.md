@@ -80,6 +80,7 @@ If you have an accessible Ganglia instance running, you should set the location 
 			rrdcached_storage: "/path/to/your/ganglia/rrd/storage"
 
 If you do not have Ganglia running, comment out this data source in the `data_sources` section:
+add some text
 
 	data_sources:
 		# - data_sources.ganglia_rrd.GangliaRRD

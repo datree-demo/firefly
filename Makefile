@@ -2,7 +2,6 @@
 production:
 	# Have to init submodules if they don't already exist
 	test -d firefly/static/d3/.git || git submodule update --init
-	test -d firefly/static/vendor/closure_library/.git || git submodule update --init
 
 docs:
 	$(MAKE) -C docs html
